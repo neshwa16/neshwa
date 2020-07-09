@@ -1,0 +1,24 @@
+body,html{
+margin: 0;
+padding: 0;
+}
+
+
+h2{
+text-align: center;
+color: 5px solid black;
+}
+
+ body>div{
+margin: 15px;
+background-color:grey;
+padding: 10px;
+}
+h3{
+text-align: center;
+color: 2px solid black;
+}
+
+div{
+padding: 15px;
+}
